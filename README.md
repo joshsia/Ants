@@ -13,4 +13,4 @@ The Evolutionary Biomechanics Group at Imperial College London led by Dr David L
 Machine learning and computer vision tools play a huge role in ant behaviour research, however, large training datasets are required. Collection of labelled data can be difficult because of the sheer number of ants, and the complexity of behaviours displayed. Thus, there is a need to develop an application that will be used for labelled data collection, which should be easily used and understood by the general public. The UI will be used in a zoo in Zurich as part of a Citizen Science project, in order to collect more data efficiently and quickly to train the machine learning algorithms.
 
 ## Credits
-This project was supervised by Mr Martin Holloway at Imperial College London.
+This project was supervised by Dr David Labonte, Mr Fabian Plum and Mr Martin Holloway at Imperial College London.
