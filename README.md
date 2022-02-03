@@ -1,6 +1,6 @@
 # Ants
 
-Authors: Joshua Sia, Yi Teng Voon, Chanasak Mahankarat, Cal-Vin Ng
+Authors: Joshua Sia, Yi Teng Voon, Chanasak Mahankarat, Cal-Vin Ng, Xian Zhang
 
 Date: 2020-01-13
 
