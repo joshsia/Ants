@@ -24,7 +24,7 @@ Clicking on the "Start Tracking! button takes users to the tracking page. On thi
 
 ![landing-page](https://github.com/joshsia/Ants/blob/main/ui_images/tracking-page.png)
 
-For a more detailed explanation of our UI, please see our report [here](https://github.com/joshsia/Ants/blob/main/report_ants.pdf).
+For a more detailed explanation of our UI, please see our report [here](https://github.com/joshsia/Ants/blob/main/report_ants.pdf). Alternatively, for an easy-to-follow guide of our UI, please see our presentations as [pdf](https://github.com/joshsia/Ants/blob/main/presentation_ants.pdf) or download the [pptx file](https://github.com/joshsia/Ants/blob/main/presentation_ants.pptx).
 
 ## Credits
 This project was supervised by Dr David Labonte, Mr Fabian Plum and Mr Martin Holloway at Imperial College London.
