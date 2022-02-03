@@ -4,11 +4,13 @@ Authors: Joshua Sia, Yi Teng Voon, Chanasak Mahankarat, Cal-Vin Ng, Xian Zhang
 
 Date: 2020-01-13
 
-This repository works together with the repository AntsServlet.
+This repository works together with the repository [AntsServlet](https://github.com/joshsia/AntsServlet).
 
 Note: This project is no longer being maintained.
 
 ## About
+
+This repository acts as the client for AntsServlet.
 
 Citizen Science - Machine learning to understand ant behaviour in the zoo
 
